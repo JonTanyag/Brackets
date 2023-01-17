@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{2B248A33-717B-4E64-9F3E-FF0EEF306FFC}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MatchingBrackets FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.MatchingBraces.UnitTest FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/jon/Projects/ProSrource/MatchingBrackets/MatchingBrackets/bin/Debug/net6.0/MatchingBrackets
+/Users/jon/Projects/ProSrource/MatchingBrackets/MatchingBrackets/bin/Debug/net6.0/MatchingBrackets.deps.json
+/Users/jon/Projects/ProSrource/MatchingBrackets/MatchingBrackets/bin/Debug/net6.0/MatchingBrackets.runtimeconfig.json
+/Users/jon/Projects/ProSrource/MatchingBrackets/MatchingBrackets/bin/Debug/net6.0/MatchingBrackets.dll
+/Users/jon/Projects/ProSrource/MatchingBrackets/MatchingBrackets/bin/Debug/net6.0/MatchingBrackets.pdb
+/Users/jon/Projects/ProSrource/MatchingBrackets/MatchingBrackets/obj/Debug/net6.0/MatchingBrackets.csproj.AssemblyReference.cache
+/Users/jon/Projects/ProSrource/MatchingBrackets/MatchingBrackets/obj/Debug/net6.0/MatchingBrackets.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jon/Projects/ProSrource/MatchingBrackets/MatchingBrackets/obj/Debug/net6.0/MatchingBrackets.AssemblyInfoInputs.cache
+/Users/jon/Projects/ProSrource/MatchingBrackets/MatchingBrackets/obj/Debug/net6.0/MatchingBrackets.AssemblyInfo.cs
+/Users/jon/Projects/ProSrource/MatchingBrackets/MatchingBrackets/obj/Debug/net6.0/MatchingBrackets.csproj.CoreCompileInputs.cache
+/Users/jon/Projects/ProSrource/MatchingBrackets/MatchingBrackets/obj/Debug/net6.0/MatchingBrackets.dll
+/Users/jon/Projects/ProSrource/MatchingBrackets/MatchingBrackets/obj/Debug/net6.0/refint/MatchingBrackets.dll
+/Users/jon/Projects/ProSrource/MatchingBrackets/MatchingBrackets/obj/Debug/net6.0/MatchingBrackets.pdb
+/Users/jon/Projects/ProSrource/MatchingBrackets/MatchingBrackets/obj/Debug/net6.0/MatchingBrackets.genruntimeconfig.cache
+/Users/jon/Projects/ProSrource/MatchingBrackets/MatchingBrackets/obj/Debug/net6.0/ref/MatchingBrackets.dll
